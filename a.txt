@@ -1,2 +1,3 @@
 ﻿ <-1> 14/11/2023 13:20:57.635     [Info   ] -   License file: "E:\MagicXPA\xpa49\license.dat", License feature: 'MGCSTK'.
  <-1> 14/11/2023 14:13:40.620     [Info   ] -   License file: "E:\MagicXPA\xpa49\license.dat", License feature: 'MGCSTK'.
+ <-1> 14/11/2023 14:16:41.455     [Info   ] -   License file: "E:\MagicXPA\xpa49\license.dat", License feature: 'MGCSTK'.
