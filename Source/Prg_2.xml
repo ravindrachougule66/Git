@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Test" ISN_2="1" LastIsn="2" id="2">
-          <LastModified _date="738917" _time="6187" date="01/02/2024" time="01:43:07"/>
+          <LastModified _date="738917" _time="6597" date="01/02/2024" time="01:49:57"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -121,7 +121,7 @@
         </TaskForms>
         <Task MainProgram="N">
           <Header Description="T1" ISN_2="2" LastIsn="2" id="2">
-            <LastModified _date="738917" _time="6187" date="01/02/2024" time="01:43:07"/>
+            <LastModified _date="738917" _time="6597" date="01/02/2024" time="01:49:57"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -141,9 +141,9 @@
               <Column id="1" name="a">
                 <PropertyList model="FIELD">
                   <Model attr_obj="FIELD_ALPHA" id="1"/>
-                  <Picture id="157" valUnicode="20"/>
+                  <Picture id="157" valUnicode="111"/>
                   <StoredAs id="173" val="1"/>
-                  <Size id="174" val="20"/>
+                  <Size id="174" val="111"/>
                   <_Flip id="194"/>
                 </PropertyList>
               </Column>
