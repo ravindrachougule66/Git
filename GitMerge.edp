@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="GitMerge"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{B271F334-5A4B-488C-A97D-3684D24BEB0E}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14091.00"/>
+  </_Project>
+
+</Application>
